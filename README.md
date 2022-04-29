@@ -1,5 +1,5 @@
 # Arduino-Stream-Deck
-This is the git repo where I will be posting the code, circuits and the instructions for the arduino stream deck as found on printables. 
+This is the git repo where I will be posting the code, circuits and the instructions for the arduino stream deck as found on printables. Being a student working a part time job I will have limited time to continue to develop the instructions and code. While the stream deck is completed and has been sent to its final owner. I still plan to further the development of this project by streamlining the effort required to build it as well as adding functionality and compatibility for other microcontrollers. Suggestions for features and ways that I can improve the stream deck are appreciated and I am open to colaborating in the development of this project.    
 
 # Description
 This stream deck was designed as a tool to allow the user more efficient control over their pc and workflow. all of the code will be published on github as well as the steps I took while creating this device. I designed this to be budget friendly while still maintaining an acceptable amount of features.
