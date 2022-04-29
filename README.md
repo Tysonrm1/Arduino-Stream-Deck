@@ -31,4 +31,7 @@ I also recommend getting Jst connectors to allow for a much easier time disconne
 # Microcontroller choice
 I chose the uno because I had an old one with a blown 3v3 regulator lying around. This was convenient because the arduino uno has enough pins without needing an 8-bit shift register like the 74HC595N. The main downside of the uno is having to reflash the firmware to the ATmega16u2 every time you want to update the code. Luckily this is fairly straightforward using Atmel Flip and I will cover it extensively later on in the instructions.
 
+# Instructions
+## work in progress, check back later...
+
 
