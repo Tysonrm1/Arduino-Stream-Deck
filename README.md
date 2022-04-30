@@ -41,6 +41,8 @@ As previously mentioned the Arduino Uno does not come with HID functionality fro
 The two hex files included contain the firmware required to convert your arduino to an HID device and back again. To do this we will use the Atmel Flip software found here https://www.microchip.com/en-us/development-tool/flip#Software.
 The images below show the steps to reflash your atmel chip.
 
+### *Note the arduino stream deck code must be uploaded on the arduino before the firmware is updated.*
+
 ### Step 1: click on the top left button and confirm that the chip selected is the ATmega16u2
 
 ![First step](https://user-images.githubusercontent.com/86377881/166090975-e85c889c-b857-4f89-b279-84607302c108.PNG)
