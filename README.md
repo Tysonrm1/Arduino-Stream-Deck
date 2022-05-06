@@ -81,5 +81,14 @@ The images below show the steps to reflash your atmel chip.
 
 # Wiring & Circuitry
 
-## Coming Soon Work In Progress...
+## Arduino Uno Breakout Board
+The breakout board for the arduino uno requires the most soldering of all the boards for this project. It is built on 5cm x 7cm perfboard with a pitch of 2.54mm. Below is a picture of the circuit with pins listed. It should be noted that in order to reach pin 9 you will have to bend your header and may have to move it over by one on the perf board. I reccomend building this circuit on a breadboard prior to soldering it on perfboard so that any issues can be fixed before hand. The easiest way to solder this circuit is to cut all of the headers and install them in the arduino before placing the perfboard on top, this will hold the perfboard and ensure all of the pins will line up correctly and fit in the arduino when removed. The spacing may be tight and the arduino female headers may need to be pulled together slightly in order to fit the pins in the perfboard. Be cautious when soldering the pins like this as too much heat can melt the arduinos female headers, I recommend not soldering pins back to back but rather switching sides of the header after each pin to allow for heat dissapation. All of the Pins / wires are 2 wire 22 AWG JST connectors with the exception of pins D2 D3 and D4 which are the three pins for the rotary encoder and its button, for these I soldered on a male 3 pin header. the +5v and GND out pins also go to the rotary encoder module where I replaced the power input pins with a JST connector for easier access.    
+
+
+![arduino uno breakout board stream deck](https://user-images.githubusercontent.com/86377881/167210740-661cc363-2b2f-4ef8-b9f9-64ac5a71ae45.png)
+
+![IMG_1524 (2)](https://user-images.githubusercontent.com/86377881/167215690-d0f52fda-2d5b-44d1-82a8-e2a115c5ef4b.JPEG)
+
+![IMG_1527](https://user-images.githubusercontent.com/86377881/167215155-38148b17-a169-42b4-bd24-2a277a6510b5.JPEG)
+
 
