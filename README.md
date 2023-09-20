@@ -104,4 +104,4 @@ The arduino uno uses a printer cable to communicate with the computer. I wanted 
 
 ![printer cable conector usb_LI (2)](https://user-images.githubusercontent.com/86377881/167230915-644c3494-ccaa-4bbd-ab26-a5068a5f98e2.jpg)
 
-## Work in Progress...
+## Project Closed. I am open to answering questions regarding the project but I no longer have the time to continue with the guide,
